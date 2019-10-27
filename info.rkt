@@ -9,7 +9,8 @@
               "http2")))
 
 (define deps
-  (list "base"))
+  (list "base"
+        "rebellion"))
 
 (define build-deps
   (list "racket-doc"
